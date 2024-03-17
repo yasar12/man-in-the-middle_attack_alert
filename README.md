@@ -1,6 +1,6 @@
 # man-in-the-middle_attack_alert
 
-Bu projede man in the middle attack türlerinden mac posion saldırısını farketmeyi ve kullanıcı geüvenliğini sağlaması için 
+Bu projede man in the middle attack türlerinden mac posion saldırısını farketmeyi ve kullanıcı güvenliğini sağlaması için 
 
 saldırı algılandıktan sonra internet bağlantısının kesilmesini sağladım.
 
