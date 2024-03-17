@@ -4,7 +4,7 @@ import csv
 import subprocess
 import ctypes
 import time
-print("MAN IN THE MIDDLE ATTACK DETECTION TOOL")
+
 
 # Get ARP table
 
@@ -81,7 +81,7 @@ while not mitm:
         print("Until you close the program you can't gain your internet connection")
         while True:
             disconnect_from_network()
-            time.sleep(0.2)
+            time.sleep(1.2)
 
     else:
         print("No MITM Attack Right Now")
