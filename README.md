@@ -11,6 +11,7 @@ Kütüphaneler:
 -Bu projede ctypes kütüphanesini Windows'un WLAN API'siyle ve WLAN kullanıcı arabirimiyle etkileşim kurmak için kullandım.
 
 -Bu projede subprocess kütüphanesini kullanarak arp -a ve ipconfig komutlarını çalıştırdım.
+
 Program Rehberi:
 
 -Tek yapılması gereken programı cmd kısmından programı arka planda açık bırakmaktır.
